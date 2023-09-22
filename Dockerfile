@@ -4,7 +4,7 @@ WORKDIR /home/
 
 RUN git clone https://github.com/noeul1114/techit.git
 
-WORKDIR /home/techit/
+WORKDIR /home/techit1/
 
 RUN pip install -r requirements.txt
 
